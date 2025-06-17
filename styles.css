@@ -61,7 +61,10 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 10px;
+    gap: 2vw;
+}
+.not-main   {
+    gap: 2vw;
 }
 .bustermoves {
     max-width: 40%;
@@ -79,11 +82,11 @@ a {
         flex-flow: row nowrap;
         max-width: 100vw;
         justify-content: space-evenly;
-        align-items: center;
         gap: 10px;
     }
     li {
         width: 20vw;
+        gap: 2vw;
     }
 }
 .topic {
