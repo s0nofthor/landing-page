@@ -1,2 +1,10 @@
 # landing_page
 This is my first attempt at making my very own landing page. While I could just use assets from around the web to show this, I did spend a little extra time learning how to add personal touches like creating my own logo. I hope this shows my proficiency with flex and my excitement towards finding little ways to add personal touches to everything that I do.
+
+Project Goals:
+I hoped to not only demonstrate my ability to build a pleasant landing page, but to also include little snippets of who I am as a person and what I find to be important. These include family, our planet, literature, and connection between other people. While I'm not completely certain of how well the formatting of the site is, at least compared to those made by professionals, I find comfort in the fact that I am not one of them (yet) and that I will continue to hone this craft until I have the confidence I desire in this discipline. 
+
+Biggest Challenges:
+This is a bit of a difficult section to fill out because I feel that I've changed quite a bit in the year overall that I've spent chipping away at this. I'm not shy to admit that this took me much, MUCH, longer than I had any right to (although I am more than a bit embarrassed over it). I've always had some pretty major problems with procrastination and deadlines so doing something that didn't necessarily have the latter really led to some mental roadblocks that I've been avoiding confronting for possibly my entire life. Luckily, I found something called the Miracle Morning which I've adopted into my life that seems to have changed my entire lifestyle to the point that I felt inspired to include it at the top of my page along with a couple other resources I consider notable. While I have let this project remain on the backburner for more time than right, I intend and hope to demonstrate through the rest of my project library that this is a problem that I've moved past and wish to leave in the past.
+
+Project guidelines provided by https://www.theodinproject.com/lessons/foundations-landing-page
